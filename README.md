@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Max
 
-<!--
-**zominy/zominy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student passionate about scripting, ethical hacking, defense, and digital investigation.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Interests
+- 🔐 Cybersecurity Fundamentals
+- 🐍 Python Scripting
+- 💻 Bash Scripting
+- 🕵️ OSINT (Open Source Intelligence)
+- 📂 CTFs and Challenges (TryHackMe, Hack The Box)
+- 🧠 Notes, Guides, and Learning Resources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Current Projects
+- `Bash Scripting Course for Cybersecurity`: Public walkthroughs, guides, documentation, and error fix tutorials.
+- `Python Scripting Course for Cybersecurity`: Public walkthroughs, guides, documentation, and error fix tutorials.
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/max-zominy-85ba92310/
