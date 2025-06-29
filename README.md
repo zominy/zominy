@@ -14,4 +14,4 @@
 - `Bash Scripting Course for Cybersecurity`: Public walkthroughs, guides, documentation, and error fix tutorials.
 
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/max-zominy-85ba92310/
+- LinkedIn: [Click Here](https://www.linkedin.com/in/max-zominy-85ba92310/)
