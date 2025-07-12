@@ -10,8 +10,8 @@
 - 📂 CTFs and Challenges (TryHackMe, Hack The Box)
 - 🧠 Notes, Guides, and Learning Resources
 
-## 📘 Current Projects
-- `Bash Scripting Course for Cybersecurity`: Public walkthroughs, guides, documentation, and error fix tutorials.
+## 📘 Projects
+- `Bash Scripting Course for Cybersecurity`: Public walkthroughs, notes, documentation, and error fix tutorials. (DEVELOPMENT)
 
 ## 📫 Connect with me
 - LinkedIn: [Click Here](https://www.linkedin.com/in/max-zominy-85ba92310/)
