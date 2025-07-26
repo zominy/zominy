@@ -11,7 +11,7 @@
 
 ## 📘 Projects
 - `Bash Scripting Course for Cybersecurity`: Public walkthroughs, notes, documentation, and error fix tutorials. (IN DEVELOPMENT)
-- `Python IOC Scanner (Collaborative)`: A Python-based tool to scan files and directories for known Indicators of Compromise (IOCs) like malicious hashes. Built for security analysts and threat hunters, this utility loads IOCs from CSVs and checks files for matches using SHA256.
+- `Python IOC Scanner (Collaborative)`: A Python-based tool to scan files and directories for known Indicators of Compromise (IOCs) like malicious hashes. Built for security analysts and threat hunters, this utility loads IOCs from CSVs and checks files for matches using SHA256. (IN DEVELOPMENT)
 
 ## 📫 Connect with me
 - LinkedIn: [Click Here](https://www.linkedin.com/in/max-zominy-85ba92310/)
