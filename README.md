@@ -3,14 +3,18 @@ Cybersecurity student at ENU 🔺
 
 ## Projects 🛠️
 
-- **🖥️ Bash Scripting Course for Cybersecurity**  
+***Bash Scripting Course for Cybersecurity***
+
   A structured course to help learners master Bash and Linux+ through practical labs and documentation.  
-  - Deep coverage of Linux+ topics via Bash scripting  
+  - Deep coverage of Linux+ topics via Bash scripting (Zero to IDS)
   - Step-by-step labs with concept explanations and error handling  
   - Troubleshooting guides and a full Bash command reference  
-  - Live video walkthroughs demonstrating workflows and automation  
+  - Live video walkthroughs demonstrating workflows and automation
 
-- **🗡️ IOC Scanner (Collaborative)**  
+---
+
+***IOC Scanner (Collaborative)***
+
   A tool for detecting Indicators of Compromise (IOCs) across files and folders.  
   - Scans directories and identifies files matching known malicious hashes  
   - Extracts relevant metadata and generates reports  
