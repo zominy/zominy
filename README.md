@@ -1,9 +1,15 @@
 # 🔹 Welcome 🔹
-Cybersecurity student at ENU 🔺
+Cybersecurity Student at ENU 🔺
+
+Languages: Bash, Python, SQL
+
+Tools: Wireshark, Nmap, Metasploit, Burp Suite, Nessus, OpenVAS, Ghidra, Git, Docker
+
+Certifications: CompTIA Security+, Microsoft AZ-900 (Upcoming)
 
 ## Projects 🛠️
 
-***Bash Scripting Course for Cybersecurity***
+[***Bash Scripting Course for Cybersecurity***](https://github.com/zominy/bash-cybersecurity-course)
 
   A structured course to help learners master Bash and Linux+ through practical labs and documentation.  
   - Deep coverage of Linux+ topics via Bash scripting (Zero to IDS)
@@ -13,7 +19,7 @@ Cybersecurity student at ENU 🔺
 
 ---
 
-***IOC Scanner (Collaborative)***
+[***IOC Scanner (Collaborative)***](https://github.com/zominy/ioc-scanner-project)
 
   A tool for detecting Indicators of Compromise (IOCs) across files and folders.  
   - Scans directories and identifies files matching known malicious hashes  
