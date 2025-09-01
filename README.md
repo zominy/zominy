@@ -3,7 +3,7 @@ Cybersecurity Student at ENU 🔺
 
 Languages: Bash, Python, SQL
 
-Tools: Wireshark, Nmap, Metasploit, Burp Suite, Nessus, OpenVAS, Ghidra, Git, Docker
+Tools: Wireshark, Nmap, Metasploit, Burp Suite, Nessus, Git
 
 Certifications: CompTIA Security+, Microsoft AZ-900 (Upcoming)
 
