@@ -12,7 +12,7 @@ Certifications: CompTIA Security+, Microsoft AZ-900 (Upcoming)
 [***Bash Scripting Course for Cybersecurity***](https://github.com/zominy/bash-cybersecurity-course)
 
   A structured course to help learners master Bash and Linux+ through practical labs and documentation.  
-  - Deep coverage of Linux+ topics via Bash scripting (Zero to IDS)
+  - Deep coverage of Linux+ topics (and more) via Bash scripting (Zero to IDS)
   - Step-by-step labs with concept explanations and error handling  
   - Troubleshooting guides and a full Bash command reference  
   - Live video walkthroughs demonstrating workflows and automation
